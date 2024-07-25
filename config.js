@@ -10,16 +10,16 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['51992621601', '👑 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 - Creador 👑', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', false],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍¨💫', true],
+  ['51992621601', '👑 MadeBot - Creador 👑', true],
+  ['51992621601', '💫 MadeBot 💫', true],
+  ['51992621601', '💫 MadeBot 💫', true],
+  ['51992621601', '💫 MadeBot 💫', true],
+  ['51992621601', '💫 MadeBot 💫', true],
+  ['51992621601', '💫 MadeBot 💫', true],
+  ['51992621601', '💫MadeBot 💫', true],
+  ['51992621601', '💫 MadeBot 💫', false],
+  ['51992621601', '💫 MadeBot💫', true],
+  ['51992621601', '💫 MadeBot¨💫', true],
   ['51992621601'],
   ['51992621601'],
   ['51992621601'],
@@ -41,11 +41,11 @@ global.suittag = ['51992621601'];
 global.prems = ['51992621601'];
 
 global.packname = '𝑻𝒐𝒎𝒂  𝑺𝒕𝒊𝒄𝒌𝒆𝒓 🤖';
-global.author = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍';
-global.wm = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍';
-global.titulowm = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍';
-global.titulowm2 = `𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍`
-global.igfg = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍';
+global.author = 'MadeBot';
+global.wm = 'MadeBot';
+global.titulowm = 'MadeBot';
+global.titulowm2 = `MadeBot`
+global.igfg = 'MadeBot';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -66,11 +66,11 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 🤖`;
-global.gt = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 🤖';
-global.mysticbot = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 🤖';
-global.md = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
-global.mysticbot = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
+global.wm2 = `${dia} ${fecha}\nMadeBot 🤖`;
+global.gt = 'MadeBot 🤖';
+global.mysticbot = 'MadeBot 🤖';
+global.md = 'https://www.instagram.com/warrior.rebels';
+global.mysticbot = 'https://www.instagram.com/warrior.rebels';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
